@@ -1,0 +1,10 @@
+D:\Study\Rapid Apllication Development(Gordon Ma)\Week2\In-class Assignment2\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\bin\Debug\Assignment1(TemperatureConverter).exe.config
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\bin\Debug\Assignment1(TemperatureConverter).exe.config
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\bin\Debug\Assignment1(TemperatureConverter).exe
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\bin\Debug\Assignment1(TemperatureConverter).pdb
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1(TemperatureConverter).csprojResolveAssemblyReference.cache
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1_TemperatureConverter_.Properties.Resources.resources
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1(TemperatureConverter).csproj.GenerateResource.Cache
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1(TemperatureConverter).exe
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1(TemperatureConverter).pdb
+D:\Study\Rapid Apllication Development(Gordon Ma)\Assignment1\Assignment1(TemperatureConverter)\Assignment1(TemperatureConverter)\obj\Debug\Assignment1_TemperatureConverter_.temperatureConverterForm.resources
